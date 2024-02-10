@@ -19,7 +19,7 @@ Before you begin, ensure you have met the following requirements:
 
 ## Setup
 
-1. Clone this repository to your local machine using `git clone [<repository-url>](https://github.com/0x4d4n/Python-SecurityTrails-Subdomain-Lookup.git)`.
+1. Clone this repository to your local machine using `git clone https://github.com/0x4d4n/Python-SecurityTrails-Subdomain-Lookup.git`.
 2. Navigate into the cloned repository.
 3. Install the required Python packages using `pip install -r requirements.txt`.
 
